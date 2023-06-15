@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![mohph197's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohph197&count_private=true&theme=tokyonight&show_icons=true&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 \
 [![mohph197's top programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=mohph197&theme=tokyonight&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
+-->
